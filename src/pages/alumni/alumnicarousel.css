@@ -1,0 +1,16 @@
+
+.swiper-button-next {
+  right: -0.15rem !important;
+}
+.swiper-button-prev {
+  left: -0.15rem !important;
+}
+.swiper-slide {
+  transform: scale(0.8);
+}
+@media only screen and (max-width: 640px) {
+  .alumni-swiper .swiper-button-next, .alumni-swiper .swiper-button-prev {
+    display: none !important;
+  }
+
+}

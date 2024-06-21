@@ -9,7 +9,7 @@ import {
 const navItems = [
   {
     name: "Home",
-    route: "",
+    route: "https://chitkara.acm.org/register",
     icon: faHome,
     external: false,
   },

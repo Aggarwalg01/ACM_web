@@ -37,7 +37,7 @@ const NavItem = ({ item, icons }) => {
     <a
       target="_blank"
       rel="noopener noreferrer"
-      href=""
+      href="https://chitkara.acm.org/register"
     >
       <span
         onClick={item.clicked}

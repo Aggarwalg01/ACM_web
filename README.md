@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://specnith.com/Home-files/assets/logo2.png" alt="Logo" width="480">
 
-  <h2 align="center">SPEC NITH</h2>
+  <h2 align="center">Acm</h2>
 
   <p align="center">
     Official Codebase
